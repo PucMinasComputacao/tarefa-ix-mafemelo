@@ -9,6 +9,14 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Maria Fernanda Melo e Reis
+- Matricula: 919094
 
+## 1. Catálogo de Produtos (Cards)
+![Cards Renderizados](./imagens/print1.png)
+
+## 2. Detalhes do Produto
+![Detalhes do Produto](./imagens/print2.png)
+
+## 3. Saída do Console (querySelectorAll)
+![Console Log](./imagens/print3.png)

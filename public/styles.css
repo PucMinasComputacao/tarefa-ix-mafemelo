@@ -1,0 +1,28 @@
+body { font-family: Arial, sans-serif; margin: 20px; color: #333; }
+#controls { margin-bottom: 20px; padding: 10px; background: #eee; border-radius: 5px; }
+
+#product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+    width: 200px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.card img { width: 100%; height: 150px; object-fit: cover; }
+
+.destaque {
+    border: 4px solid gold !important;
+    transform: scale(1.05);
+}
+
+#product-details {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px dashed #777;
+    background-color: #fafafa;
+}
